@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Oportunidade.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Oportunidade.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Oportunidade.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Oportunidade.Interface.dll": {}
+        }
+      },
+      "Oportunidade.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Oportunidade.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Oportunidade.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oportunidade.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Oportunidade.Interface/Oportunidade.Interface.csproj",
+      "msbuildProject": "../Oportunidade.Interface/Oportunidade.Interface.csproj"
+    },
+    "Oportunidade.Models/1.0.0": {
+      "type": "project",
+      "path": "../Oportunidade.Models/Oportunidade.Models.csproj",
+      "msbuildProject": "../Oportunidade.Models/Oportunidade.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Oportunidade.Interface >= 1.0.0",
+      "Oportunidade.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rafae\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Projetos\\MinutoSeguros\\Oportunidade\\Oportunidade.Negocio\\Oportunidade.Negocio.csproj",
+      "projectName": "Oportunidade.Negocio",
+      "projectPath": "E:\\Projetos\\MinutoSeguros\\Oportunidade\\Oportunidade.Negocio\\Oportunidade.Negocio.csproj",
+      "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+      "outputPath": "E:\\Projetos\\MinutoSeguros\\Oportunidade\\Oportunidade.Negocio\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "E:\\Projetos\\MinutoSeguros\\Oportunidade\\Oportunidade.Interface\\Oportunidade.Interface.csproj": {
+              "projectPath": "E:\\Projetos\\MinutoSeguros\\Oportunidade\\Oportunidade.Interface\\Oportunidade.Interface.csproj"
+            },
+            "E:\\Projetos\\MinutoSeguros\\Oportunidade\\Oportunidade.Models\\Oportunidade.Models.csproj": {
+              "projectPath": "E:\\Projetos\\MinutoSeguros\\Oportunidade\\Oportunidade.Models\\Oportunidade.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

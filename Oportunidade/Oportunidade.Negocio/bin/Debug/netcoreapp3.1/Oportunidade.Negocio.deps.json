@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Oportunidade.Negocio/1.0.0": {
+        "dependencies": {
+          "Oportunidade.Interface": "1.0.0",
+          "Oportunidade.Models": "1.0.0"
+        },
+        "runtime": {
+          "Oportunidade.Negocio.dll": {}
+        }
+      },
+      "Oportunidade.Interface/1.0.0": {
+        "dependencies": {
+          "Oportunidade.Models": "1.0.0"
+        },
+        "runtime": {
+          "Oportunidade.Interface.dll": {}
+        }
+      },
+      "Oportunidade.Models/1.0.0": {
+        "runtime": {
+          "Oportunidade.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oportunidade.Negocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Oportunidade.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Oportunidade.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

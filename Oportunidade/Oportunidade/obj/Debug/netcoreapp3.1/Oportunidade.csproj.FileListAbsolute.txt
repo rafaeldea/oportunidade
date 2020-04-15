@@ -1,0 +1,15 @@
+E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade\Oportunidade\bin\Debug\netcoreapp3.1\Oportunidade.deps.json
+E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade\Oportunidade\bin\Debug\netcoreapp3.1\Oportunidade.dll
+E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade\Oportunidade\bin\Debug\netcoreapp3.1\Oportunidade.pdb
+E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade\Oportunidade\obj\Debug\netcoreapp3.1\Oportunidade.AssemblyInfoInputs.cache
+E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade\Oportunidade\obj\Debug\netcoreapp3.1\Oportunidade.AssemblyInfo.cs
+E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade\Oportunidade\obj\Debug\netcoreapp3.1\Oportunidade.dll
+E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade\Oportunidade\obj\Debug\netcoreapp3.1\Oportunidade.pdb
+E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade\bin\Debug\netcoreapp3.1\Oportunidade.deps.json
+E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade\bin\Debug\netcoreapp3.1\Oportunidade.dll
+E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade\bin\Debug\netcoreapp3.1\Oportunidade.pdb
+E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade\obj\Debug\netcoreapp3.1\Oportunidade.csprojAssemblyReference.cache
+E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade\obj\Debug\netcoreapp3.1\Oportunidade.AssemblyInfoInputs.cache
+E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade\obj\Debug\netcoreapp3.1\Oportunidade.AssemblyInfo.cs
+E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade\obj\Debug\netcoreapp3.1\Oportunidade.dll
+E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade\obj\Debug\netcoreapp3.1\Oportunidade.pdb
