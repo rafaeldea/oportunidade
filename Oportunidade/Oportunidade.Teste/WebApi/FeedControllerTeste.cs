@@ -5,19 +5,23 @@ using Oportunidade.Blog;
 using Oportunidade.Interface.Blog;
 using Oportunidade.Interface.Negocio;
 using Oportunidade.Negocio;
+using Oportunidade.Teste;
 using Oportunidade.WebApi.Controllers;
 
-namespace Oportunidade.Testes
+namespace Oportunidade.Testes.WebApi
 {
     [TestClass]
     public class FeedControllerTeste
     {
+        public FeedControllerTeste()
+        {
+            ConfiguracaoTeste.Configuracao();
+        }
+
         [TestMethod]
         public void UltimosTopicos()
         {
             CriaControllers(out FeedController feedController);
-
-            ConfiguracaoAPI.urlBlog = "https://www.minutoseguros.com.br/blog/feed/";
 
             object retorno = feedController.UltimosTopicos();
 

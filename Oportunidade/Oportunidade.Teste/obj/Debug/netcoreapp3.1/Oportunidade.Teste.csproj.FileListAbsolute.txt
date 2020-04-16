@@ -360,3 +360,4 @@ E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade.Teste\obj\Debug\netcoreapp3.
 E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade.Teste\obj\Debug\netcoreapp3.1\Oportunidade.Teste.csproj.CopyComplete
 E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade.Teste\obj\Debug\netcoreapp3.1\Oportunidade.Teste.dll
 E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade.Teste\obj\Debug\netcoreapp3.1\Oportunidade.Teste.pdb
+E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade.Teste\bin\Debug\netcoreapp3.1\appsettings.test.json

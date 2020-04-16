@@ -8,8 +8,8 @@ E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade\Oportunidade.Models\obj\Debu
 E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade.Models\bin\Debug\netcoreapp3.1\Oportunidade.Models.deps.json
 E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade.Models\bin\Debug\netcoreapp3.1\Oportunidade.Models.dll
 E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade.Models\bin\Debug\netcoreapp3.1\Oportunidade.Models.pdb
-E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade.Models\obj\Debug\netcoreapp3.1\Oportunidade.Models.csprojAssemblyReference.cache
 E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade.Models\obj\Debug\netcoreapp3.1\Oportunidade.Models.AssemblyInfoInputs.cache
 E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade.Models\obj\Debug\netcoreapp3.1\Oportunidade.Models.AssemblyInfo.cs
 E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade.Models\obj\Debug\netcoreapp3.1\Oportunidade.Models.dll
 E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade.Models\obj\Debug\netcoreapp3.1\Oportunidade.Models.pdb
+E:\Projetos\MinutoSeguros\Oportunidade\Oportunidade.Models\obj\Debug\netcoreapp3.1\Oportunidade.Models.csprojAssemblyReference.cache

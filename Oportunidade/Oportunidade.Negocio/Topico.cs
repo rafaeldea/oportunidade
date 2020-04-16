@@ -65,6 +65,9 @@ namespace Oportunidade.Negocio
             // Remove palavras irrelevantes
             var descricaoTratada = Regex.Replace(texto, regexRemover, " ", RegexOptions.IgnoreCase);
 
+            // Remove parênteses para evitar quebra na contagem de palavras
+            descricaoTratada = descricaoTratada.Replace("(", " ").Replace(")", " ");
+
             totalPalavras = ContarPalavras(descricaoTratada);
 
             palavrasPrincipais = RecuperarPalavrasPrincipais(descricaoTratada);
